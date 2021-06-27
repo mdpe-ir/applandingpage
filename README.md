@@ -11,5 +11,4 @@
 صفحه معرفی برنامه ساخته شده با فلاتر وب  
 
 
-.
-
+Forke from https://github.com/theindianappguy/applandingpage and Developed by Mahan Esnaasharan

@@ -24432,17 +24432,17 @@ case 4:throw H.c("Could not launch "+a)
 case 3:return P.ac(null,s)}})
 return P.ad($async$b8,s)},
 I:function(a){var t,s,r,q=null,p=F.af(a,!1).a.a>700?C.fc:C.a1,o=F.af(a,!1).a.a>700?q:C.P
-o=L.c5("Fastest & Easiest Test Maker/ Test Builder",A.bw(q,q,C.j,q,q,q,q,q,q,q,q,35,q,C.W,q,q,!0,q,q,q,q,q,q),o)
+o=L.c5("متن معرفی اپلیکیشن شما",A.bw(q,q,C.j,q,q,q,q,q,q,q,q,35,q,C.W,q,q,!0,q,q,q,q,q,q),o)
 t=F.af(a,!1).a.a>700?q:C.P
-t=L.c5("Struggling to find the best test maker your search end here MarksZen is the Fastest & Easiest Quiz Maker/ Test Builder Download Now!",A.bw(q,q,C.j,q,q,q,q,q,q,q,q,20,q,C.at,q,q,!0,q,q,q,q,q,q),t)
+t=L.c5("در این بخش می توانید شعار خود را قرار دهید و یا اپلیکیشن را معرفی کنید",A.bw(q,q,C.j,q,q,q,q,q,q,q,q,20,q,C.at,q,q,!0,q,q,q,q,q,q),t)
 s=F.af(a,!1).a.a>700?C.N:C.b7
 r=u.t
 return M.aN(C.ai,T.d3(H.a([o,new T.b7(q,16,q,q),t,new T.b7(q,25,q,q),T.hU(H.a([D.dZ(q,U.dv("assets/google_play_button.png",50,150),C.K,!1,q,q,q,q,q,q,q,q,q,q,new L.K6(this),q,q,q,q,q),D.dZ(q,U.dv("assets/app_store_badge.png",130,180),C.K,!1,q,q,q,q,q,q,q,q,q,q,new L.K7(this),q,q,q,q,q)],r),s,C.bv)],r),p,C.b7),q,q,q,q,q,new V.au(40,0,40,0),q)}}
 L.K6.prototype={
-$0:function(){this.a.b8("https://play.google.com/store/apps/details?id=com.taffyapps.marksplus")},
+$0:function(){this.a.b8("https://github.com/")},
 $S:0}
 L.K7.prototype={
-$0:function(){this.a.b8("https://play.google.com/store/apps/details?id=com.taffyapps.marksplus")},
+$0:function(){this.a.b8("https://github.com/")},
 $S:0}
 L.fu.prototype={
 I:function(a){var t=null
@@ -24466,9 +24466,9 @@ case 4:throw H.c("Could not launch "+a)
 case 3:return P.ac(null,s)}})
 return P.ad($async$b8,s)},
 I:function(a){var t=null,s=F.af(a,!1).a
-return M.aN(t,D.dZ(t,T.d3(H.a([L.c5("Watch the video",A.bw(t,t,C.j,t,t,t,t,t,t,t,t,30,t,C.A,t,t,!0,t,t,t,t,t,t),t),new T.b7(t,30,t,t),L.o9(C.tP,C.j,70)],u.t),C.a1,C.N),C.K,!1,t,t,t,t,t,t,t,t,t,t,new L.O_(this),t,t,t,t,t),C.u,t,t,t,t,new V.au(0,150,0,150),s.a)}}
+return M.aN(t,D.dZ(t,T.d3(H.a([L.c5("مشاهده ویدیو",A.bw(t,t,C.j,t,t,t,t,t,t,t,t,30,t,C.A,t,t,!0,t,t,t,t,t,t),t),new T.b7(t,30,t,t),L.o9(C.tP,C.j,70)],u.t),C.a1,C.N),C.K,!1,t,t,t,t,t,t,t,t,t,t,new L.O_(this),t,t,t,t,t),C.u,t,t,t,t,new V.au(0,150,0,150),s.a)}}
 L.O_.prototype={
-$0:function(){this.a.b8("https://www.youtube.com/channel/UCsPdgUIoOBTBI1UmulW1pdw")},
+$0:function(){this.a.b8("https://aparat.com/mahan.e84")},
 $S:0}
 L.qa.prototype={
 aK:function(){return new L.Dk(H.a([],u.cm),C.q)}}

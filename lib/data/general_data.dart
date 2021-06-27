@@ -8,12 +8,12 @@ import 'package:flutter/material.dart';
 Color headerColor = Colors.black87;
 
 /// One
-String playStoreUrl = "https://play.google.com/store/apps/details?id=com.taffyapps.marksplus";
-String appHeading = "Fastest & Easiest Test Maker/ Test Builder";
-String appDescription = "Struggling to find the best test maker your search end here MarksZen is the Fastest & Easiest Quiz Maker/ Test Builder Download Now!";
+String playStoreUrl = "#";
+String appHeading = "این یک صفحه ی وب ساخته شده با فلاتر وب است";
+String appDescription = "متن معرفی اپلیکیشن شما در این بخش قرار میگیرد . لورم ایپسوم یا طرح‌نما (به انگلیسی: Lorem ipsum) به متنی آزمایشی و بی‌معنی در صنعت چاپ، صفحه‌آرایی و طراحی گرافیک گفته می‌شود. طراح گرافیک از این متن به عنوان عنصری از ترکیب بندی برای پر کردن صفحه و ارایه اولیه شکل ظاهری و کلی طرح سفارش گرفته شده استفاده می نماید،";
 
 /// Two
-String maintitle = "Create, Test, and Share";
+String maintitle = "بسازید . ببینید . منتشر کنید";
 String maindescription = "MarksZen is a test making app that gives you the ability to create, take, and share your quizzes in an easy, quick and painless way.";
 
 String closingTitle = "Making Quiz/Test Was Never This EASY";

@@ -8,9 +8,8 @@
     <img src="https://img.shields.io/badge/Flutter%20Web-Live%20Demo-green?style=for-the-badge&logo=flutter" alt="Try Live Demo" /></a>
 </p>
 
-App Landing Page made with Flutterweb, Hosted on Codemagic. Don't forget to star ⭐ the repo it motivates me to share more open source
+صفحه معرفی برنامه ساخته شده با فلاتر وب  
 
-Host this on Firebase https://www.youtube.com/watch?v=xm5A5bCXviE.
 
-if you are interested to learn how to build android, ios, web, macOS, desktop apps all from one source code I teach it for free on Youtube( No Ads) https://www.youtube.com/SanskarTiwari.
+.
 
